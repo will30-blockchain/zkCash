@@ -79,3 +79,11 @@ This project is deployed on the Mantle Network and encompasses three smart contr
    - 用戶可以質押他們的zkCash到StakingContract以獲得利息。
    - 利息為每日0.1%的複利。
    - 用戶可以隨時提取他們的代幣和利息。
+
+  
+<img width="1470" alt="image" src="https://github.com/will30-blockchain/zkCash/assets/109714287/fc7cf739-f416-4928-b013-636cf022fb59">
+<img width="1470" alt="image" src="https://github.com/will30-blockchain/zkCash/assets/109714287/51bfa10b-8200-43c7-aad0-b10a8e6e0bf1">
+<img width="1470" alt="image" src="https://github.com/will30-blockchain/zkCash/assets/109714287/802ab3b4-0aa1-4bcc-b681-067da15dd142">
+
+
+
